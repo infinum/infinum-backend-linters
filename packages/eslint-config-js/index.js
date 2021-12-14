@@ -1,7 +1,6 @@
 module.exports = {
   root: true,
   extends: ['eslint:recommended'],
-  parser: '@babel/eslint-parser',
   env: {
     node: true,
     commonjs: true,
@@ -11,6 +10,10 @@ module.exports = {
     es2017: true,
     es2020: true
   },
+	parserOptions: {
+		ecmaVersion: 2022,
+		sourceType: 'module',
+	},
   rules: {
     semi: 'error',
     eqeqeq: ['error', 'smart']
