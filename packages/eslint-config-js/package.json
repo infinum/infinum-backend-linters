@@ -1,0 +1,14 @@
+{
+  "name": "@infinumbackend/eslint-config-js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "=> 8.0.0"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.16.5"
+  },
+  "devDependencies": {
+    "eslint": "=> 8.0.0"
+  }
+}
