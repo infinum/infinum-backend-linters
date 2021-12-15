@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "main": "index.js",
   "peerDependencies": {
-    "stylelint": "=> 14"
+    "stylelint": ">= 14"
   },
   "dependencies": {
-    "stylelint-config-standard-scss": "^3.0.0"
+    "stylelint-scss": "^4.0.1"
   },
   "devDependencies": {
-    "stylelint": "=> 14"
+    "stylelint": ">= 14"
   }
 }
