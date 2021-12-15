@@ -6,7 +6,7 @@
     "stylelint": "=> 14"
   },
   "dependencies": {
-    "stylelint-scss": "^4.0.1"
+    "stylelint-config-standard-scss": "^3.0.0"
   },
   "devDependencies": {
     "stylelint": "=> 14"
