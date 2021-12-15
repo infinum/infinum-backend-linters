@@ -1,0 +1,14 @@
+{
+  "name": "@infinumbackend/stylelint-config-scss",
+  "version": "0.0.1",
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": "=> 14"
+  },
+  "dependencies": {
+    "stylelint-scss": "^4.0.1"
+  },
+  "devDependencies": {
+    "stylelint": "=> 14"
+  }
+}
