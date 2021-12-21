@@ -37,6 +37,7 @@ module.exports = {
     'key-spacing': ['error', { mode: 'minimum' }],
     'keyword-spacing': 'error',
     'max-len': ['error', { code: 120 }],
-    'no-multiple-empty-lines': 'error'
+    'no-multiple-empty-lines': 'error',
+    'no-trailing-spaces': 'error'
   }
 };
