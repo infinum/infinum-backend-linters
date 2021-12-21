@@ -19,6 +19,7 @@ module.exports = {
     eqeqeq: ['error', 'smart'],
     'array-bracket-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
-    'space-before-function-paren': ['error', 'never', { anonymous: "never", named: "never", asyncArrow: "always" }]
+    'space-before-function-paren': ['error', 'never', { anonymous: "never", named: "never", asyncArrow: "always" }],
+    'block-scoped-var': 'error',
   }
 };
