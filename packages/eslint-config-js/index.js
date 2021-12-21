@@ -16,6 +16,8 @@ module.exports = {
 	},
   rules: {
     semi: 'error',
-    eqeqeq: ['error', 'smart']
+    eqeqeq: ['error', 'smart'],
+    'array-bracket-spacing': 'error',
+    'object-curly-spacing': ['error', 'always']
   }
 };
