@@ -36,6 +36,7 @@ module.exports = {
     indent: ['error', 2],
     'key-spacing': ['error', { mode: 'minimum' }],
     'keyword-spacing': 'error',
-    'max-len': { code: 120 }
+    'max-len': ['error', { code: 120 }],
+    'no-multiple-empty-lines': 'error'
   }
 };
