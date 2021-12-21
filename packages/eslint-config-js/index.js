@@ -21,7 +21,8 @@ module.exports = {
     'object-curly-spacing': ['error', 'always'],
     'space-before-function-paren': ['error', 'never', { anonymous: "never", named: "never", asyncArrow: "always" }],
     'block-scoped-var': 'error',
-    camelcase: ['error'],
-    curly: ['error', 'all']
+    camelcase: 'error',
+    curly: ['error', 'all'],
+    'no-implicit-coercion': 'error'
   }
 };
