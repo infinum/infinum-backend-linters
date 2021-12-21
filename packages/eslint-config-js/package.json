@@ -2,6 +2,11 @@
   "name": "@infinumrails/eslint-config-js",
   "version": "0.0.1",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinum/infinum-backend-linters.git",
+    "directory": "packages/eslint-config-js"
+  },
   "peerDependencies": {
     "eslint": ">= 8.0.0"
   },
