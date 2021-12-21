@@ -32,6 +32,7 @@ module.exports = {
     'prefer-spread': 'error',
     'arrow-spacing': 'error',
     'brace-style': 'error',
-    'func-call-spacing': 'error'
+    'func-call-spacing': 'error',
+    indent: ['error', 2]
   }
 };
