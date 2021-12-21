@@ -33,6 +33,7 @@ module.exports = {
     'arrow-spacing': 'error',
     'brace-style': 'error',
     'func-call-spacing': 'error',
-    indent: ['error', 2]
+    indent: ['error', 2],
+    'key-spacing': ['error', { mode: 'minimum' }]
   }
 };
