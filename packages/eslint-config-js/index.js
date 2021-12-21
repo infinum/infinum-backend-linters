@@ -28,6 +28,7 @@ module.exports = {
     'no-nested-ternary': 'error',
     'no-var': 'error',
     'prefer-const': 'error',
-    'prefer-rest-params': 'error'
+    'prefer-rest-params': 'error',
+    'prefer-spread': 'error',
   }
 };
