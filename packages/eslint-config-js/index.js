@@ -24,6 +24,7 @@ module.exports = {
     camelcase: 'error',
     curly: ['error', 'all'],
     'no-implicit-coercion': 'error',
-    'no-lonely-if': 'error'
+    'no-lonely-if': 'error',
+    'no-nested-ternary': 'error'
   }
 };
