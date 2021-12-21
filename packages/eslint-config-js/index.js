@@ -31,6 +31,7 @@ module.exports = {
     'prefer-rest-params': 'error',
     'prefer-spread': 'error',
     'arrow-spacing': 'error',
-    'brace-style': 'error'
+    'brace-style': 'error',
+    'func-call-spacing': 'error'
   }
 };
