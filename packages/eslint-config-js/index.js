@@ -26,6 +26,7 @@ module.exports = {
     'no-implicit-coercion': 'error',
     'no-lonely-if': 'error',
     'no-nested-ternary': 'error',
-    'no-var': 'error'
+    'no-var': 'error',
+    'prefer-const': 'error'
   }
 };
