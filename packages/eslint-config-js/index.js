@@ -25,6 +25,7 @@ module.exports = {
     curly: ['error', 'all'],
     'no-implicit-coercion': 'error',
     'no-lonely-if': 'error',
-    'no-nested-ternary': 'error'
+    'no-nested-ternary': 'error',
+    'no-var': 'error'
   }
 };
