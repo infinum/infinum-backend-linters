@@ -35,6 +35,7 @@ module.exports = {
     'func-call-spacing': 'error',
     indent: ['error', 2],
     'key-spacing': ['error', { mode: 'minimum' }],
-    'keyword-spacing': 'error'
+    'keyword-spacing': 'error',
+    'max-len': { code: 120 }
   }
 };
