@@ -23,6 +23,7 @@ module.exports = {
     'block-scoped-var': 'error',
     camelcase: 'error',
     curly: ['error', 'all'],
-    'no-implicit-coercion': 'error'
+    'no-implicit-coercion': 'error',
+    'no-lonely-if': 'error'
   }
 };
