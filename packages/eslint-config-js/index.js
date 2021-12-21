@@ -18,6 +18,7 @@ module.exports = {
     semi: 'error',
     eqeqeq: ['error', 'smart'],
     'array-bracket-spacing': 'error',
-    'object-curly-spacing': ['error', 'always']
+    'object-curly-spacing': ['error', 'always'],
+    'space-before-function-paren': ['error', 'never', { anonymous: "never", named: "never", asyncArrow: "always" }]
   }
 };
