@@ -39,6 +39,7 @@ module.exports = {
     'max-len': ['error', { code: 120 }],
     'no-multiple-empty-lines': 'error',
     'no-trailing-spaces': 'error',
-    'semi-spacing': 'error'
+    'semi-spacing': 'error',
+    'space-in-parens': 'error'
   }
 };
