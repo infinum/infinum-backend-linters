@@ -30,5 +30,6 @@ module.exports = {
     'prefer-const': 'error',
     'prefer-rest-params': 'error',
     'prefer-spread': 'error',
+    'arrow-spacing': 'error'
   }
 };
