@@ -1,5 +1,5 @@
 {
-  "name": "@infinumbackend/stylelint-config-scss",
+  "name": "@infinumrails/stylelint-config-scss",
   "version": "0.0.1",
   "main": "index.js",
   "peerDependencies": {

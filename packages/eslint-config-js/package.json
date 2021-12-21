@@ -1,5 +1,5 @@
 {
-  "name": "@infinumbackend/eslint-config-js",
+  "name": "@infinumrails/eslint-config-js",
   "version": "0.0.1",
   "main": "index.js",
   "peerDependencies": {
