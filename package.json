@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "lerna": "^4.0.0"
